@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-simplebotsweb-dev-225248-authRole",
+      "UnauthRoleArn": "arn:aws:iam::920372989593:role/amplify-simplebotsweb-dev-225248-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::920372989593:role/amplify-simplebotsweb-dev-225248-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-simplebotsweb-dev-225248-deployment",
+      "UnauthRoleName": "amplify-simplebotsweb-dev-225248-unauthRole",
+      "StackName": "amplify-simplebotsweb-dev-225248",
+      "StackId": "arn:aws:cloudformation:us-west-2:920372989593:stack/amplify-simplebotsweb-dev-225248/5160d690-e132-11ef-a910-02973dae953b",
+      "AmplifyAppId": "d1qvm0k3anx79d"
+    }
+  }
+}
